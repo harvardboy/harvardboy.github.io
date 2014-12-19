@@ -14,3 +14,7 @@ tags: [前沿]
 [**【脑科学每周快报003】爱、意念与抑郁症**](http://mp.weixin.qq.com/s?__biz=MzA3Mjk0MTcyNg==&mid=201446322&idx=1&sn=938c653ff1abb37fd6eca517cf91ae63#rd)
 
 [**【大脑快报004】音乐、孤独和大脑的未来**](http://mp.weixin.qq.com/s?__biz=MzA3Mjk0MTcyNg==&mid=201575302&idx=1&sn=8730785e60f225f8c48fd81ee80ab980#rd)
+
+[**【大脑快报005】Nature开放论文、Python图书和反常识实验**](http://mp.weixin.qq.com/s?__biz=MzA3Mjk0MTcyNg==&mid=201745584&idx=1&sn=f926e9714ddd6409ef040bb44ec03781#rd)
+
+[**【大脑快报006】APA年度大奖&脑科学研究报告**](http://mp.weixin.qq.com/s?__biz=MzA3Mjk0MTcyNg==&mid=201994980&idx=1&sn=c95c9b8966cfade37ac2ecd6ac0de219#rd)
