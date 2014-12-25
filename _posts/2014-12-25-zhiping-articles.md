@@ -16,6 +16,6 @@ tags: [专栏]
 
 [**【阳志平专栏002】《心思大开：日常生活的神经科学》推荐序**](http://mp.weixin.qq.com/s?__biz=MzA3Mjk0MTcyNg==&mid=202367005&idx=1&sn=01dbddeb5336e2585a3714900803ad9e#rd)
 
-## 招聘
+## 与阳老师共事
 
 >感兴趣与阳志平老师共事？提前看到广受欢迎的《心智工具箱》与《文心书话》？欢迎加入 @安人心智 团队。我们将一起尝试用各类黑客方法挑战人类大脑，增强人类认知能力。近期招募Python与Nodejs开发者中，详情请点击：http://anrenmind.com/blog/jobs.html
