@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yangming's Articles"
+title: "Zhiping's Articles"
 description: "微信文章阳志平专栏索引"
 category: articles
 tags: [专栏]
