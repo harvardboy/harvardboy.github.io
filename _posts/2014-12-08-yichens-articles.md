@@ -17,3 +17,5 @@ tags: [专栏]
 [**【刘医师专栏004】写字到底重不重要？**](http://mp.weixin.qq.com/s?__biz=MzA3Mjk0MTcyNg==&mid=200935368&idx=1&sn=922ba9de5ec2fad2de80ce43e963c8ea#rd)
 
 [**【刘医师专栏005】 失去社交能力的大脑**](http://mp.weixin.qq.com/s?__biz=MzA3Mjk0MTcyNg==&mid=200974024&idx=1&sn=3ab6e298e29ed9abd15b981f4cd00738#rd)
+
+[**【刘医师专栏006】没有生病的感觉**](http://mp.weixin.qq.com/s?__biz=MzA3Mjk0MTcyNg==&mid=202908694&idx=1&sn=291c36843608309054349dbfed62b210#rd)
